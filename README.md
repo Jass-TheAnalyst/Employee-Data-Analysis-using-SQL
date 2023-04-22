@@ -23,7 +23,7 @@
   <ol>
   <li>What is breakdown between the male and female employees working in the company each year, starting from 1990?</li>
   <li>What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?</li>
-  <li>What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?</li>
+  <li>What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.</li>
   <li>What is the athe average male and female salary per department within a certain salary range?</li>
   </ol>
   
@@ -48,13 +48,13 @@
   </ul>
   
   <h3>Key Insights</h3>
-  <p>Task-1 Insights</p>
+  <h3 align="center">Task-1 Insights</h3>
   <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-1.jpg" alt="Task-1 Insight">
-  <p>Task-2 Insights</p>
+   <h3 align="center">Task-2 Insights</h3>
   <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-2.jpg" alt="Task-2 Insight">
-  <p>Task-3 Insights</p>
+   <h3 align="center">Task-3 Insights</h3>
   <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-3.jpg" alt="Task-3 Insight">
-  <p>Task-4 Insights</p>
+   <h3 align="center">Task-4 Insights</h3>
   <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-4.jpg" alt="Task-4 Insight">
   
   
