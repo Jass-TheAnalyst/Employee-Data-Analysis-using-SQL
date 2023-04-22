@@ -48,7 +48,16 @@
   </ul>
   
   <h3>Key Insights</h3>
-  <img src="G:/My Drive/Wix Portfolio Projects/SQL Project/Task-1.jpg">
+  <p>Task-1 Insights</p>
+  <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-1.jpg" alt="Task-1 Insight">
+  <p>Task-2 Insights</p>
+  <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-2.jpg" alt="Task-2 Insight">
+  <p>Task-3 Insights</p>
+  <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-3.jpg" alt="Task-3 Insight">
+  <p>Task-4 Insights</p>
+  <img src="https://github.com/Jass-TheAnalyst/SQL-Project/blob/main/Task-4.jpg" alt="Task-4 Insight">
+  
+  
   
   
   
